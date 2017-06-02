@@ -1,0 +1,12 @@
+index {
+    eb322e1d49604cf4d49986e14d0a0672d7c22094=[
+        "https://github.com/libling/libling-with-dependencies.git"
+    ]
+    ef33ab5a6eac7af6b2f6a8d238ccdc88e25171a2=[
+        "https://github.com/libling/libling-skeleton.git"
+    ]
+}
+repos=[
+    "https://github.com/libling/libling-with-dependencies.git",
+    "https://github.com/libling/libling-skeleton.git"
+]
